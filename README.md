@@ -2,7 +2,7 @@
 
 ![Alt text](./promo.jpg?raw=true "Cross Platform Image Filter SwiftUI macOS & iOS App")
 
-Follow the tutorial at [alfianlosari.com](https://alfianlosari.com "Alfian Losari")
+Follow Vlad Pisatel [https://vk.com/vlad_pisatel](https://vk.com/vlad_pisatel "Vlad Pisatel")
 
 ## Features
 - Filter image using predefined filters from the MetalPetal Swift library.
